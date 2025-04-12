@@ -1,0 +1,18 @@
+🚀 CodeBox v2 — “The Community Update”
+
+Welcome to the official rebranding of CodePit → CodeBox!
+
+✨ What’s New in v2:
+	•	Brand new name: Say goodbye to CodePit, hello to CodeBox 🎉
+	•	User login: Now asks for your username to personalize your session.
+	•	Dev community access: View and post updates to a shared posts.txt feed!
+	•	Persistent posts: Everything you post is saved and shown across sessions.
+	•	Cleaner structure: Logic split between packaging files and interacting socially.
+
+🛠️ Existing Features Improved:
+	•	Continued support for .json packaging of your Python files with metadata (name, version, author, etc.).
+	•	Simpler interface, now with options and menus.
+
+🧠 Why It Matters:
+
+This update turns CodeBox from a simple file packager into a growing terminal-based dev network. It’s GitHub meets group chat — but command line style.
