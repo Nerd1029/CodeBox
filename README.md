@@ -40,4 +40,6 @@ Made by devs, for devs who still love ASCII.
 By @Nerd1029
 Future plans: reactions, numbered posts, trending feed… and maybe CodeBox Pro 👀
 
+Please run it from this Dropbox: https://www.dropbox.com/home/CodeBox
+
 ![CodeBox icon](https://github.com/user-attachments/assets/dd0fb0af-d7fa-44c3-9058-d681e6fa56e9)
