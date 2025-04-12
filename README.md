@@ -40,6 +40,19 @@ Made by devs, for devs who still love ASCII.
 By @Nerd1029
 Future plans: reactions, numbered posts, trending feed… and maybe CodeBox Pro 👀
 
-Please run it from this Dropbox: https://www.dropbox.com/home/CodeBox
+🌐 Join the Global CodeBox Feed
+
+Want to see what other devs are posting — live, in your terminal?
+
+🧠 You can join the shared CodeBox feed using Dropbox:
+	1.	Download or sync the shared folder here:
+👉 Official CodeBox Shared Folder (Dropbox)
+	2.	Open the folder on your computer and run:
+       python codebox.py
+
+⚠️ Public Feed Reminder
+	•	This feed is shared with anyone who has the link
+	•	Be cool, be funny, be nerdy 🤓
+	•	Posting the word "cheese" triggers the Great Cheddar Protocol 🧀
 
 ![CodeBox icon](https://github.com/user-attachments/assets/dd0fb0af-d7fa-44c3-9058-d681e6fa56e9)
