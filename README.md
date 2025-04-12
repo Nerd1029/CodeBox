@@ -46,7 +46,7 @@ Want to see what other devs are posting — live, in your terminal?
 
 🧠 You can join the shared CodeBox feed using Dropbox:
 	1.	Download or sync the shared folder here:
-👉 Official CodeBox Shared Folder (Dropbox)
+👉 [Official CodeBox Shared Folder (Dropbox)](https://www.dropbox.com/home/CodeBox)
 	2.	Open the folder on your computer and run:
        python codebox.py
 
